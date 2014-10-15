@@ -1,3 +1,21 @@
+# BIOMD0000000330: Larsen2004_CalciumSpiking
+
+## Installation
+
+Download this repository, and install with distutils
+
+`python setup.py install`
+
+Or, install using pip
+
+`pip install git+https://github.com/biomodels/BIOMD0000000330.git`
+
+To install a specific version (in this example, from the 2014-09-16 BioModels release)
+
+`pip install git+https://github.com/biomodels/BIOMD0000000330.git@20140916`
+
+
+# Model Notes
 
 
 This model is from the article:  
@@ -28,4 +46,5 @@ This model corresponds to the 5 variable receptor-operated model, as described
 by Larsen et al., 2004. This model is a modified version of the model
 described in Kummer 2000
 (PMID:[10968983](http://www.ncbi.nlm.nih.gov/pubmed/10968983))
+
 
